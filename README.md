@@ -1,1 +1,1 @@
-See LIVE https://wisniewskapaulina.github.io/weatherApp/
+LIVE https://wisniewskapaulina.github.io/weatherApp/
